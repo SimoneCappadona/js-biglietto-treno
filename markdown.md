@@ -9,8 +9,7 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 
 ## SVOLGIMENTO
--   Inserire stazione di partenza
--   Inserire stazione di arrivo
+-   Inserisci i kilometri da percorrere
     -   Calcolare i kilometri (ogni kilometro equivale a 0.21 €)
 - Chiedere l'età dei passeggeri
     -   sè l'età è minore di 18 anni il passeggero avrà uno sconto del 20%
